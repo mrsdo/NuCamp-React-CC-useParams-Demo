@@ -1,5 +1,5 @@
 # NuCamp-React-CC-useParams-Demo
-Created with CodeSandbox
+Created with [CodeSandbox](https://yr2yz8-3000.preview.csb.app/)
 ## Changes Made:
 - [x] Added styles to default body in styles.css
 - [x] Home.js generated a routing error, so I added a router
